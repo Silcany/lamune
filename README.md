@@ -1,0 +1,3 @@
+# lamune
+
+domain: lamune.blue
